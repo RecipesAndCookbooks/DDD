@@ -5,7 +5,7 @@
 Inspired by (Rus): https://www.youtube.com/watch?v=cT-VOwWjJJs&t=2949s  
 Presentation (Rus): https://drive.google.com/file/d/1tsptt7aRNJ3tWsGXHNhbJiRhHF_DDupo/view
 
-> All examples are provided in JavaScript/TypeScript, considering the final host-environment as for NodeJS
+> All examples are provided in JavaScript/TypeScript, considering the runtime environment as NodeJS
 
 ### Keypoints
 
