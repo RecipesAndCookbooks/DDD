@@ -13,7 +13,7 @@ Presentation (Rus): https://drive.google.com/file/d/1tsptt7aRNJ3tWsGXHNhbJiRhHF_
 
 On the image below we can see the distinct segregation of **business domain entities** and surrounding layers of its accessors, which are:
 - **Application** (use cases)
-- **Perphery interface adapters** (controllers, gateways, Presenters)
+- **Periphery interface adapters** (controllers, gateways, Presenters)
 - **Infrastructure** (DB, clients, external interfaces)
 
 ![Clean architecture image](Clean-architecture.png)
